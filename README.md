@@ -1,4 +1,3 @@
-# Sohan Joseph Saldanha - Portfolio & Research Website
 
 [![GitHub](https://img.shields.io/badge/GitHub-sohanjs111-181717?style=for-the-badge&logo=github)](https://github.com/sohanjs111)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sohanjs-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sohanjs/)
